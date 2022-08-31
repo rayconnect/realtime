@@ -1,0 +1,24 @@
+{
+  "name": "@rayconnect/realtime",
+  "version": "0.0.0",
+  "description": "Rayconnect realtime client/server SDK",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "keywords": [
+    "rayconnect",
+    "0tasad"
+  ],
+  "author": {
+    "name": "0tasad",
+    "email": "middle-end+rayconnect@0tasad.studio"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "@rayconnect/types": "^0.0.0"
+  }
+}
